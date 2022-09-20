@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/sources_cods)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
@@ -25,9 +25,9 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 
 # Get API & PYROGRAM string session from:
  
-API: [API scrapper Bot](https://t.me/USETGSBOT) or [Telegram.org](https://my.telegram.org/auth)
+API: [API scrapper Bot](https://t.me/USERS_RO_BOT) or [Telegram.org](https://my.telegram.org/auth)
 
-PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorZBot) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@SpEcHiDe/GenerateStringSession)
+PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionString_Ro_Bot) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@ShivPrasad1/GenerateStringSession)
 
 BOT TOKEN: @Botfather on telegram
 
@@ -35,7 +35,7 @@ BOT TOKEN: @Botfather on telegram
 
 Deploy your bot on `Render`
 
-Tutorial - [Click here](https://telegra.ph/SRCB-on-Render-05-17)
+Tutorial - [Click here](https://t.me/sources_cods)
 
 Deploy your bot on `heroku`
 
@@ -60,6 +60,6 @@ Buildpacks for manual deploy:
 
 Deploy your bot on `Okteto` [Useless]
   
-Tutorial for okteto - [click here](https://telegra.ph/Okteto-Deploy-04-01)
+Tutorial for okteto - [click here](https://t.me/sources_cods)
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
